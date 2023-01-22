@@ -4,8 +4,7 @@
 
 ## CV + Motivatiebrief
 
-[CV](/pdf/CV%20%2B%20Motivatiebrief%20Jorn%20Lammens.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[CV](/pdf/CV.pdf)
 
 ### Category Name 2
 
