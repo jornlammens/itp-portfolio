@@ -3,8 +3,6 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Informaticastudent specialiserend in mainframe. Dit portfolio bevat enkele van de projecten die ik realiseerde tijdens mijn opleiding Toegepaste Informatica aan HOGENT.
   <br><br>
-  <a href="/pdf/CV.pdf">Bekijk mijn CV</a>
-  <br><br>
   <a href="https://www.linkedin.com/in/jorn-lammens-ab833a227/">Bekijk mijn LinkedIn-profiel</a> 
   
 theme: jekyll-theme-minimal
